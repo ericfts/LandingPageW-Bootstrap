@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.container00 {
+  min-height: 100vh;
+  background-size: cover;
+}
+
+.container01 {
+  background-image: url("./humanFlight/01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navbar-brand img {
+  height: 39px;
+  width: 230px;
+}
+
+.nav-link {
+  font-weight: bold;
+  color: white;
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.paddingUp {
+  padding-top: 180px;
+}
+
+#arrow {
+  display: inline-block;
+  height: 100px;
+  margin-top: 100px;
+  color: white;
+}
+
+.Big {
+  font-size: 6rem;
+}
+.Medium {
+  font-size: 2rem;
+}
+
+.whiteText {
+  color: rgb(255, 255, 255);
+}
+
+.mini-text {
+  padding-top: 40px;
+  height: 120px;
+  background-color: black;
+}
+
+.minitext p {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.726);
+}
+
+.titlePaddingDireita {
+  padding-left: 720px;
+  padding-top: 250px;
+  padding-right: 0px;
+}
+
+.titlePaddingEsquerda {
+  padding-top: 250px;
+}
+
+.container02 {
+  background-image: url("./humanFlight/02.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container03 {
+  background-image: url("./humanFlight/03.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container04 {
+  background-image: url("./humanFlight/04.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container05 {
+  background-image: url("./humanFlight/05.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.btn {
+  height: 60px;
+  width: 200px;
+  font-size: 1rem;
+}
+
+.container06 {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.pequeno {
+  font-size: 1.1rem;
+}
+
+.last p {
+  font-size: 1rem;
+}
+
+.footer {
+  background-color: black;
+}
+
+.footer01 {
+  display: flex;
+  color: rgb(56, 54, 54);
+  min-height: 100px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.credits {
+  margin-right: 10px;
+  font-size: 12px;
+}
+
+.footer01 a {
+  margin-left: 10px;
+  margin-right: 10px;
+}

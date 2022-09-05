@@ -1,0 +1,218 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-brand img {
+  height: 39px;
+  width: 230px;
+}
+
+.nav-link {
+  font-weight: bold;
+  color: white;
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.titlePadding p {
+  color: white;
+}
+
+.titulo {
+  padding-top: 170px;
+  color: white;
+}
+
+.titulo h1 {
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.sub-dados {
+  height: 200px;
+  background-color: black;
+  color: white;
+  font-weight: 800;
+}
+
+.col-sm {
+  padding-top: 30px;
+}
+
+.textPadding {
+  width: 600px;
+  color: white;
+  font-weight: bold;
+  padding-top: 120px;
+  padding-left: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.textPadding p {
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel01 {
+  background-image: url("./falcon9/03.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.carousel02 {
+  background-image: url("./falcon9/04.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.carousel03 {
+  background-image: url("./falcon9/05.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.carousel04 {
+  background-image: url("./falcon9/06.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.carousel05 {
+  background-image: url("./falcon9/07.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.carousselText {
+  font-size: 1rem;
+  background-color: black;
+}
+.titlePadding {
+  padding-top: 130px;
+}
+
+.tamanhoFixo {
+  max-height: 100vh;
+  width: 100%;
+}
+
+.weightSize p {
+  font-size: 1.1rem;
+  font-weight: 200;
+}
+
+.reutilizavel {
+  padding-top: 150px;
+  width: 700px;
+  font-weight: 200;
+}
+
+#text1F9 {
+  font-size: 1.6rem;
+}
+
+.textWidth {
+  width: 500px;
+}
+
+.carouselPadding {
+  padding-top: 220px;
+  padding-left: 150px;
+  color: white;
+}
+
+#merlinText {
+  width: 500px;
+  font-size: 1rem;
+}
+
+.tableMerlin {
+  width: 500px;
+  font-size: 1rem;
+  color: white;
+}
+
+.tableCarousel {
+  width: 500px;
+  font-size: 1.1rem;
+  color: white;
+}
+
+#interestadual p {
+  font-weight: 200;
+  padding-right: 20px;
+}
+
+#interestadual p.h4 {
+  font-weight: 300;
+}
+
+#interestadual p.h5 {
+  font-size: 1rem;
+}
+
+.container00 {
+  min-height: 100vh;
+  background-size: cover;
+}
+
+.container01 {
+  background-image: url("./falcon9/01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container02 {
+  background-image: url("./falcon9/02.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container03 {
+  background-image: url("./falcon9/08.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container04 {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  height: 80px;
+  font-size: 1rem;
+}
+
+.last p {
+  font-size: 1rem;
+}
+
+.footer {
+  background-color: black;
+}
+
+.footer01 {
+  display: flex;
+  color: rgb(56, 54, 54);
+  min-height: 100px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.credits {
+  margin-right: 10px;
+  font-size: 12px;
+}
+
+.footer01 a {
+  margin-left: 10px;
+  margin-right: 10px;
+}

@@ -1,0 +1,87 @@
+.container00 {
+  min-height: 100vh;
+  background-size: cover;
+}
+
+.container01 {
+  background-image: url("./home/01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navbar-brand img {
+  height: 39px;
+  width: 230px;
+}
+
+.nav-link {
+  font-weight: bold;
+  color: white;
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.titlePadding p {
+  color: white;
+}
+
+.titlePadding {
+  padding-top: 200px;
+}
+
+#arrow {
+  display: inline-block;
+  height: 80px;
+  margin-top: 100px;
+}
+
+.btn {
+  font-size: 1rem;
+  height: 60px;
+  width: 160px;
+  border-radius: 4px;
+  outline: 1px solid white;
+}
+
+.container02 {
+  background-image: url("./home/03.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container03 {
+  background-image: url("./home/02.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container04 {
+  background-image: url("./home/04.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mediumTitle {
+  max-width: 650px;
+}
+
+.footer {
+  background-color: black;
+}
+
+.footer01 {
+  display: flex;
+  color: rgb(56, 54, 54);
+  min-height: 100px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.credits {
+  margin-right: 10px;
+  font-size: 12px;
+}
+
+.footer01 a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
